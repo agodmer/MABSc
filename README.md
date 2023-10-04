@@ -1,4 +1,4 @@
- # Mycobacterium abscessus complex visualization
+ # *Mycobacterium abscessus* complex visualization
 
 **Visualization of the average spectra Matrix-Assisted Laser Desorption Ionization-Time Of Flight Mass Spectrometry (MALDI-TOF MS) of the different subspecies of  <i>Mycobacterium abscessus </i> complex using MALDIquant [1], MALDIrppa [2] and plotly [3] R packages is available [3] R packages is available [here](https://agodmer.github.io/MABSc/Mabscessus).**
 
